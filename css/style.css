@@ -65,9 +65,9 @@ img {
 
 @media screen and (min-width: 575px) {
 
-	img {
-		height: 200px;
-	}
+	/*	img {
+			height: 200px;
+		}*/
 
 	.preview {
 		display: inline-block;
@@ -98,9 +98,9 @@ img {
 @media screen and (min-width: 991px) {
 
 
-	img {
+	/*	img {
 		height: 200px;
-	}
+	}*/
 
 	.preview {
 		display: inline-block;
